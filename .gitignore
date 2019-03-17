@@ -1,0 +1,46 @@
+#hello.....now putting patterns
+
+#ignoring text files
+*.txt
+
+#ignoring log files
+*.log
+
+#not ignoring text5.txt
+!text5.txt
+
+#not ignoring .c files
+!text4.c
+
+#not ignoring .cpp files
+!text3.cpp#hello.....now putting patterns
+
+#ignoring text files
+*.txt
+
+#ignoring log files
+*.log
+
+#not ignoring text5.txt
+!text5.txt
+
+#not ignoring .c files
+!text4.c
+
+#not ignoring .cpp files
+!text3.cpp#hello.....now putting patterns
+
+#ignoring text files
+*.txt
+
+#ignoring log files
+*.log
+
+#not ignoring text5.txt
+!text5.txt
+
+#not ignoring .c files
+!text4.c
+
+#not ignoring .cpp files
+!text3.cpp
